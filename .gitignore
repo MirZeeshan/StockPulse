@@ -18,6 +18,9 @@ data/processed/*
 # Notebooks
 .ipynb_checkpoints
 
+# Black cache
+.black/
+
 # Distribution / packaging
 dist/
 build/
